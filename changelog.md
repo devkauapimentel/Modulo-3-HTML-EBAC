@@ -7,3 +7,4 @@
 - `index.html`
 - `listas.html`
 - `tabelas.html`
+- `forms.hmtml`
