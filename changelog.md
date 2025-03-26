@@ -1,7 +1,7 @@
 # Changelog
 
 ## [Unreleased]
-s
+
 ### Added
 - `container.html`
 - `index.html`
